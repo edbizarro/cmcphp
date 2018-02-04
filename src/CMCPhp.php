@@ -2,11 +2,11 @@
 
 namespace Edbizarro\Cmc;
 
-use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Client;
+use GuzzleHttp\Client as GuzzleClient;
 
 /**
- * Class CMCPhp
+ * Class CMCPhp.
  */
 class CMCPhp
 {
