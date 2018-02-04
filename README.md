@@ -28,6 +28,52 @@ $market->ticker('raiblocks');
 //get ticker with all options (limit 100, start 0 and convert to BRL)
 $market->ticker(100, 0, 'BRL');
 ```
+
+Response example
+
+```json
+{                                                                                                                                                                                      
+    "id": "bitcoin",                                                                                                                                                                   
+    "name": "Bitcoin",                                                                                                                                                                 
+    "symbol": "BTC",                                                                                                                                                                   
+    "rank": "1",                                                                                                                                                                       
+    "price_usd": "9087.87",                                                                                                                                                            
+    "price_btc": "1.0",                                                                                                                                                                
+    "24h_volume_usd": "7117920000.0",                                                                                                                                                  
+    "market_cap_usd": "153074828154",                                                                                                                                                  
+    "available_supply": "16843862.0",                                                                                                                                                  
+    "total_supply": "16843862.0",                                                                                                                                                      
+    "max_supply": "21000000.0",                                                                                                                                                        
+    "percent_change_1h": "-0.86",                                                                                                                                                      
+    "percent_change_24h": "4.39",                                                                                                                                                      
+    "percent_change_7d": "-21.76",                                                                                                                                                     
+    "last_updated": "1517707168",                                                                                                                                                      
+    "price_brl": "29247.492021",                                                                                                                                                       
+    "24h_volume_brl": "22907601936.0",                                                                                                                                                 
+    "market_cap_brl": "492640719448"                                                                                                                                                   
+},                                                                                                                                                                                     
+{                                                                                                                                                                                      
+    "id": "ethereum",                                                                                                                                                                  
+    "name": "Ethereum",                                                                                                                                                                
+    "symbol": "ETH",                                                                                                                                                                   
+    "rank": "2",                                                                                                                                                                       
+    "price_usd": "952.455",
+    "price_btc": "0.104047",
+    "24h_volume_usd": "3178180000.0",
+    "market_cap_usd": "92765037932.0",
+    "available_supply": "97395717.0",
+    "total_supply": "97395717.0",
+    "max_supply": null,
+    "percent_change_1h": "-1.23",
+    "percent_change_24h": "5.17",
+    "percent_change_7d": "-15.64",
+    "last_updated": "1517707154",
+    "price_brl": "3065.2859265",
+    "24h_volume_brl": "10228336694.0",
+    "market_cap_brl": "298545721577"
+}
+
+```
 ## Installation
 
 You can install the package via composer:
