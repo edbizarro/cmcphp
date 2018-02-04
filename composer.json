@@ -1,5 +1,6 @@
 {
   "name": "edbizarro/cmcphp",
+  "description": "PHP wrapper for CoinMarketCap API.",
   "license": "MIT",
   "authors": [
     {
