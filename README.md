@@ -1,11 +1,15 @@
 <p align="center">
     <img src="https://files.coinmarketcap.com/generated/sparklines/1567.png">
 </p>
-
 <p align="center">
+  <a href="https://styleci.io/repos/120142568"><img src="https://styleci.io/repos/120142568/shield?branch=master" alt="StyleCI"></a>  
+  <a href="https://packagist.org/packages/edbizarro/cmcphp"><img src="https://poser.pugx.org/edbizarro/cmcphp/v/stable.svg" alt="Latest Stable Version"></a>
+  <a href="https://packagist.org/packages/edbizarro/cmcphp"><img src="https://poser.pugx.org/edbizarro/cmcphp/license.svg" alt="License"></a>
+</p>
+<p align="center">
+  <h2>CoinMarketCap API</h2>
 </p>
 
-## CoinMarketCap API
 
 Here are a few examples on how you can use the package:
 
@@ -31,3 +35,7 @@ You can install the package via composer:
 ``` bash
 composer require edbizarro/cmcphp
 ```
+
+---
+
+[![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](http://forthebadge.com)
