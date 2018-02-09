@@ -78,8 +78,6 @@ Response example
 
 ```
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp?ref=badge_large)
-
 ## Installation
 
 You can install the package via composer:
@@ -91,3 +89,5 @@ composer require edbizarro/cmcphp
 ---
 
 [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](http://forthebadge.com)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp?ref=badge_large)
