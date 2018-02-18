@@ -2,7 +2,6 @@
 
 namespace Edbizarro\Cmc;
 
-use GuzzleHttp\Client;
 use GuzzleHttp\Client as GuzzleClient;
 
 /**
@@ -27,7 +26,7 @@ class CMCPhp
      */
     public function __construct(GuzzleClient $client = null)
     {
-        $this->client = $client ?? new Client();
+        $this->client = $client ?? new GuzzleClient();
     }
 
     /**
