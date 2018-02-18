@@ -26,7 +26,7 @@ $market->ticker();
 $market->ticker(100);
 
 //get ticker for a specific coin
-$market->ticker('raiblocks');
+$market->ticker('nano');
 
 //get ticker with all options (limit 100, start 0 and convert to BRL)
 $market->ticker(100, 0, 'BRL');
