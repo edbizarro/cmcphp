@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://s2.coinmarketcap.com/generated/sparklines/1567.png">
+    <img src="https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1567.png">
 </p>
 <p align="center">
   <a href="https://styleci.io/repos/120142568"><img src="https://styleci.io/repos/120142568/shield?branch=master" alt="StyleCI"></a>  
