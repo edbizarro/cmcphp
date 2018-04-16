@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1567.png">
+  <h1>CoinMarketCap API</h1>
+  <img src="https://s2.coinmarketcap.com/generated/sparklines/web/7d/usd/1567.png">
 </p>
 <p align="center">
   <a href="https://styleci.io/repos/120142568"><img src="https://styleci.io/repos/120142568/shield?branch=master" alt="StyleCI"></a>  
@@ -9,9 +10,7 @@
   <a href="https://packagist.org/packages/edbizarro/cmcphp"><img src="https://poser.pugx.org/edbizarro/cmcphp/v/stable.svg" alt="Latest Stable Version"></a>
   <a href="https://packagist.org/packages/edbizarro/cmcphp"><img src="https://poser.pugx.org/edbizarro/cmcphp/license.svg" alt="License"></a>
 </p>
-<p align="center">
-  <h2>CoinMarketCap API</h2>
-</p>
+
 
 
 Here are a few examples on how you can use the package:
