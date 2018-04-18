@@ -8,6 +8,7 @@
   <a class="badge-align" href="https://www.codacy.com/app/edbizarro/cmcphp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=edbizarro/cmcphp&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/1076ec55e5e74fa4ac769371d0fbae78"/></a>
   <a href="https://packagist.org/packages/edbizarro/cmcphp"><img src="https://poser.pugx.org/edbizarro/cmcphp/v/stable.svg" alt="Latest Stable Version"></a>
   <a href="https://packagist.org/packages/edbizarro/cmcphp"><img src="https://poser.pugx.org/edbizarro/cmcphp/license.svg" alt="License"></a>
+  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp.svg?type=small"/></a>
 </p>
 
 <p align="center">
@@ -90,5 +91,3 @@ composer require edbizarro/cmcphp
 ---
 
 [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](http://forthebadge.com)
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fedbizarro%2Fcmcphp?ref=badge_large)
