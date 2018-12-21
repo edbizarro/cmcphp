@@ -7,7 +7,7 @@ use GuzzleHttp\Client as GuzzleClient;
 /**
  * Class CMCPhp.
  */
-class CMCPhp
+class Market
 {
     /**
      * @var GuzzleClient
