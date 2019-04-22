@@ -91,4 +91,5 @@ composer require edbizarro/cmcphp
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0192b547fe1342cead3b31a330ba03d9)](https://app.codacy.com/app/edbizarro/cmcphp?utm_source=github.com&utm_medium=referral&utm_content=edbizarro/cmcphp&utm_campaign=Badge_Grade_Dashboard)
 [![forthebadge](http://forthebadge.com/images/badges/contains-cat-gifs.svg)](http://forthebadge.com)
