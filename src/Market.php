@@ -4,9 +4,6 @@ namespace Edbizarro\Cmc;
 
 use GuzzleHttp\Client as GuzzleClient;
 
-/**
- * Class CMCPhp.
- */
 class Market
 {
     /**
@@ -24,9 +21,9 @@ class Market
      *
      * @param GuzzleClient|null $client
      */
-    public function __construct(GuzzleClient $client = null)
+    public function __construct(GuzzleClient $client=null)
     {
-        $this->client = $client ?? new GuzzleClient();
+        $this->client = $client ?? new GuzzleClient;
     }
 
     /**
@@ -36,7 +33,7 @@ class Market
      */
     public function ticker(...$params): string
     {
-        list($coin, $limit, $start, $convert) = $params;
+        [$coin, $limit, $start, $convert] = $params;
 
         if (is_numeric($coin)) {
             return $this->call("ticker/?limit=$coin&start=$limit&convert=$start");

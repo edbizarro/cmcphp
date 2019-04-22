@@ -15,6 +15,7 @@
   <h1>CoinMarketCap API</h1>
 </p>
 
+> This package works with V1 free api, to work with [Pro](https://pro.coinmarketcap.com/migrate/) version some work are needed (PR are welcome)
 
 Here are a few examples on how you can use the package:
 
